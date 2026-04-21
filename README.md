@@ -65,3 +65,6 @@ step 6 Run Migrations
 Step 7 Create a database
    laravelproject.db
    then import the file laravelproject_db.sql
+Login As Admin
+User: Admin
+Pass: Password123
